@@ -1,2 +1,2 @@
 # Robotics-Light
-Light finding robotics project
+Light finding robotics project with obstacle avoidance.
